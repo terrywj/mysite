@@ -46,10 +46,12 @@ a:hover {
 
 p {
   line-height: 2;
+  font-size: 20px;
 }
 
 li {
   margin: 10px;
+  font-size: 15px;
 }
 
 /* CLASS */
